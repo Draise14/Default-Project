@@ -1,0 +1,1 @@
+These are "Animated Props" - used for animation, may contain a rig. 

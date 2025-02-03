@@ -1,0 +1,1 @@
+These are "Static Mesh Props" - used for environment sets and decoration. These do not contain a rig. 
