@@ -1,0 +1,15 @@
+An "Element" could be one of the following:
+
+Film = ##-Film-Name
+Commercial = ##-Commercial-Name
+Episode = ##-Episode
+Video
+Product
+Game
+
+You have the option of doing this top level if it doesn't require per shot sub-folders. 
+
+##-Episode
+ ├─ S000 (Shot)
+ ├─ S001
+ └─ S###
